@@ -1,0 +1,16 @@
+x1 of seg1
+y1 of seg1
+x2 of seg1
+y2 of seg1
+x1 of seg2
+y1 of seg2
+x2 of seg2
+y2 of seg2
+x1 of seg3
+y1 of seg3
+x2 of seg3
+y2 of seg3
+x1 of seg4
+y1 of seg4
+x2 of seg4
+y2 of seg4
